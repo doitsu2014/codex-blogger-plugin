@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modify Blog / Article"
+  short_description: "Revise an article while preserving its local resources."
+  default_prompt: "Use $modify-article to help me with a technical article."

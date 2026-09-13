@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Blog / Article"
+  short_description: "Write a technical Markdown article with local resources."
+  default_prompt: "Use $write-article to help me with a technical article."

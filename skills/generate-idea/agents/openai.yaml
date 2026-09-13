@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Idea"
+  short_description: "Generate practical technical article ideas and outlines."
+  default_prompt: "Use $generate-idea to help me with a technical article."

@@ -1,0 +1,26 @@
+{
+  "name": "codex-blogger-plugin",
+  "version": "0.1.0+codex.20260913090030",
+  "description": "Generate technical ideas, write and modify Markdown articles, and review technical accuracy.",
+  "author": {
+    "name": "Duc Tran"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codex Blogger Plugin",
+    "shortDescription": "Technical articles from idea through review.",
+    "longDescription": "Four writing skills and three specialist agent roles for portable Markdown articles with local media and code examples.",
+    "developerName": "Duc Tran",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Generate technical article ideas.",
+      "Write a technical article with examples.",
+      "Review an article for technical accuracy."
+    ]
+  },
+  "license": "MIT"
+}

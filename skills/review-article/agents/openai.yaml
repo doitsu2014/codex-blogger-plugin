@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Blog / Article"
+  short_description: "Check technical accuracy, examples, and article quality."
+  default_prompt: "Use $review-article to help me with a technical article."
